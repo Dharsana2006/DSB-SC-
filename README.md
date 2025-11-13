@@ -48,6 +48,7 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program:
+```
 clc;
 clear;
 close;
@@ -78,8 +79,7 @@ xlabel("Time(s)");
 ylabel("Amplitude");
 title("DSB-SC Modulated Signal s(t)");
 xgrid();
-
-
+```
 
 Output Graph:
 <img width="1919" height="1104" alt="Screenshot 2025-10-28 204156" src="https://github.com/user-attachments/assets/9b9a1401-b644-498f-bad7-38e83fdff6c2" />
